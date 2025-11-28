@@ -1,4 +1,5 @@
 # Veltrix E-commerce
+![UI Preview](./public/veltrix.png)
 
 Veltrix is a modern React-based e-commerce platform featuring product exploration, detailed product pages, a real-time shopping cart, and a clean, responsive UI designed with performance in mind.
 
